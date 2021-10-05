@@ -1,6 +1,6 @@
 # A [Cisco](https://www.cisco.com) Wireless LAN Controller plugin for [Homebridge](https://github.com/nfarina/homebridge).  
 
-This creates a Light Switch in homekit for the status of each SSID.
+This creates a Light Switch in homekit for the status of an SSID.
 
 ![alt text](example.png "Dashboard Example Screenshot")
 
