@@ -11,7 +11,8 @@
     "9800",
     "WLC",
     "WLAN",
-    "SSID"
+    "SSID",
+    "RESTCONF"
   ],
   "dependencies": {
 		"axios": "^0.22.0"

@@ -1,6 +1,6 @@
 # A [Cisco](https://www.cisco.com) Wireless LAN Controller plugin for [Homebridge](https://github.com/nfarina/homebridge).  
 
-This creates a Light Switch in homekit for the status of an SSID.
+This creates a Light Switch in homekit for the status of an SSID using RESTCONF.
 
 ![alt text](example.png "Dashboard Example Screenshot")
 
@@ -60,8 +60,8 @@ To make your WLC work with the plugin:
 
 1. Connect your WLC to your network.
 2. Configure your WLC.
-3. Enable Netconf on the WLC.
-4. Enable Restconf on the WLC.
+3. Enable netconf on the WLC.
+4. Enable restconf on the WLC.
 5. Write down the IP address of the WLC.
 6. Create your config file according to the above example (or using the Homebridge UI).
 
