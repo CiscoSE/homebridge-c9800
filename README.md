@@ -58,7 +58,7 @@ Field           						| Description
 
 To make your WLC work with the plugin:
 
-1. Connect your WLC to your home network.
+1. Connect your WLC to your network.
 2. Configure your WLC.
 3. Write down the IP address of the WLC.
 4. Enable Netconf on the WLC.
